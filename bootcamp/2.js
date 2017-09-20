@@ -1,0 +1,15 @@
+var naam = "Juul";
+var leeftijd = 16,19,21;
+var firstName = "Juul", "Bert", "Dalí";
+var Surname = "de Rooij";
+var Gender = "male";
+var college = "mediaCollege";
+var brand = "Ashes to dust";
+var transfer = "train";
+var Siblings = 1;
+var pets = 1;
+var petName = "Uggs";
+var achtienPlus = "true";
+var work = "La Vida";
+var city = "Waarland";
+var PhoneNumber = 0651324573;

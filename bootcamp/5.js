@@ -1,0 +1,15 @@
+var naam = "Dalí"; //string
+var leeftijd = 17,19,26; //number
+var firstName = "Juul", "Gijs", "Juul"; //string
+var Surname = "Klaassen"; //string
+var Gender = "male"; //string
+var college = "mediaCollege"; //string
+var brand = "Adidas"; //string
+var transfer = "train"; //string
+var Siblings = 2; //number
+var pets = 3; //number
+var petName = "muis"; //string
+var achtienPlus = "false"; //bollean
+var work = "Thuisbezorg"; //string
+var city = "West-Zaan"; //string
+var PhoneNumber = 0685948372; //number

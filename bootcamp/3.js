@@ -1,0 +1,15 @@
+var naam = "Juul"; //string
+var leeftijd = 16,19,21; //number
+var firstName = "Juul", "Bert", "Dalí"; //string
+var Surname = "de Rooij"; //string
+var Gender = "male"; //string
+var college = "mediaCollege"; //string
+var brand = "Ashes to dust"; //string
+var transfer = "train"; //string
+var Siblings = 1; //number
+var pets = 1; //number
+var petName = "Uggs"; //string
+var achtienPlus = "true"; //bollean
+var work = "La Vida"; //string
+var city = "Waarland"; //string
+var PhoneNumber = 0651324573; //number
